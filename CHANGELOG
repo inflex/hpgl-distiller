@@ -1,0 +1,24 @@
+HPGL-Distiller CHANGELOG
+------------------------
+
+
+December 27, 2006 13H08;
+
+	Released version 0.9.0 of HPGL-distiller.
+
+
+December 28, 2006 07H48;
+
+	Removed 'PM' from the valid list of commands.
+
+December 28, 2006 17H15;
+
+	Added print-to-cutter.sh, a simple shell script
+	that will accept Postscript or other files
+	accepted by pstoedit and convert/filter them
+	and send to the cutter/plotter.
+
+	Please check the contents of the script before
+	putting it into production on your machine.
+
+
